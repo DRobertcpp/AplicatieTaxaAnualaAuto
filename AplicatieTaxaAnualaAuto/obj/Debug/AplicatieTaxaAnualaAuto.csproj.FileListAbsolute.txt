@@ -1,0 +1,10 @@
+C:\Users\Robert\Desktop\Proiecte\Tema_L9_4\POO_L9_4\bin\Debug\POO_L9_4.exe.config
+C:\Users\Robert\Desktop\Proiecte\Tema_L9_4\POO_L9_4\bin\Debug\POO_L9_4.exe
+C:\Users\Robert\Desktop\Proiecte\Tema_L9_4\POO_L9_4\bin\Debug\POO_L9_4.pdb
+C:\Users\Robert\Desktop\Proiecte\Tema_L9_4\POO_L9_4\obj\Debug\AplicatieTaxaAnualaAuto.csproj.AssemblyReference.cache
+C:\Users\Robert\Desktop\Proiecte\Tema_L9_4\POO_L9_4\obj\Debug\POO_L9_4.Properties.Resources.resources
+C:\Users\Robert\Desktop\Proiecte\Tema_L9_4\POO_L9_4\obj\Debug\AplicatieTaxaAnualaAuto.csproj.GenerateResource.cache
+C:\Users\Robert\Desktop\Proiecte\Tema_L9_4\POO_L9_4\obj\Debug\AplicatieTaxaAnualaAuto.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\Proiecte\Tema_L9_4\POO_L9_4\obj\Debug\POO_L9_4.exe
+C:\Users\Robert\Desktop\Proiecte\Tema_L9_4\POO_L9_4\obj\Debug\POO_L9_4.pdb
+C:\Users\Robert\Desktop\Proiecte\Tema_L9_4\POO_L9_4\obj\Debug\AplicatieTaxaAnualaAuto.Form1.resources
